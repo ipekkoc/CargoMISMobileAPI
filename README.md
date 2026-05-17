@@ -25,10 +25,9 @@ um zusätzliche Funktionen oder Module.
 - REST-konforme API-Endpunkte
 - Modularer und erweiterbarer Aufbau
 
-
-## Technologien
-- Node.js
-- Express.js
-- JavaScript
+## Technologien 
+- ASP.NET Core
+- C#
 - REST API
+- Dependency Injection
 - Git & GitHub
